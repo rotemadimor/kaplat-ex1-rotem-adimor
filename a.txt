@@ -1,1 +1,3 @@
 Hey! This is file A.
+And now it's edited!
+Some editing
